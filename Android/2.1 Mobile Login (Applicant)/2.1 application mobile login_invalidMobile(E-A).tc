@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2.1 application mobile login_invalidMobile(E-A)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a3d50e03-c05b-4a64-992f-d1b40a0eb8d3</testCaseGuid>
+</TestCaseEntity>
